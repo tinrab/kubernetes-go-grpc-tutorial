@@ -23,7 +23,7 @@ func main() {
 	reflection.Register(s)
 
 	if err := s.Serve(lis); err != nil {
-		log.Fatalf("Failed to server %v", err)
+		log.Fatalf("Failed to serve: %v", err)
 	}
 }
 
