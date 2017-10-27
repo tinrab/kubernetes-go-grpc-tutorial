@@ -1,4 +1,4 @@
-# Build Microservices with Go, gRPC and Kubernetes
+# Getting Started with Microservices using Go, gRPC and Kubernetes
 
 <p align="center">
   <img src="./cover.jpg"/>
